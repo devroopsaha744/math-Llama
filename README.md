@@ -1,5 +1,11 @@
 # math-Llama
-LLAMA-3 finetuned model, fine-tuned for solving mathematical problems. 
 
-The dataset to be trained on: [meta-math](https://huggingface.co/datasets/datafreak/MATH-Llama2-10k)
+In this project, I finetuend Llama-2 7B chat model on dataset containing 10k samples of problem-solution Paris
+
+The finetuned model: https://huggingface.co/datafreak/math-Llama2
+
+
+The raw dataset: [lighteval](https://huggingface.co/datasets/lighteval/MATH)
+
+The formatted dataset: [formatted dataset](https://huggingface.co/datasets/datafreak/MATH-Llama2-10k)
 
