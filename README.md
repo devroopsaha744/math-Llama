@@ -1,6 +1,6 @@
 # math-Llama
 
-In this project, I finetuend Llama-2 7B chat model on dataset containing 10k samples of problem-solution Paris
+In this project, I finetuend Llama-2 7B chat model on dataset containing 10k samples of problem-solution Pairs
 
 The finetuned model: https://huggingface.co/datafreak/math-Llama2
 
